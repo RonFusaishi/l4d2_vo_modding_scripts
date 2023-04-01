@@ -3,11 +3,11 @@
 ## Dependencies:
 - ffmpeg
 
-python muter_vo.py <survivor>  
+python muter_vo.py /<survivor/>  
   
 This will make a completely muted voice pack for that survivor
 
-python process_vo.py <survivor>  
+python process_vo.py /<survivor/>  
   
 This will process that survivor's voice pack into being able to be installed properly as .vpk format
 
