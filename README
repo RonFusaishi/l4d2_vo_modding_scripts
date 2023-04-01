@@ -18,17 +18,3 @@ python process_vo.py teengirl
 
 #Disclaimer: compress_vo.py requires a complete voice pack with all the voicelines associated with zoey present, so making a complete muted voice pack is required.
 
-
-expected filesize once processed:
-
-teengirl (260MB)
-namvet (220MB)
-biker (320MB)
-manager (228MB)
-producer (292MB)
-gambler (289MB)
-mechanic (359MB)
-coach (313MB)
-
-
-if your final processed folder does not align somewhere around their expected file size, then you might have used the wrongoutput.
