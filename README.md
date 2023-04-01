@@ -5,7 +5,7 @@
 
 ``` python muter_vo.py <survivor> ``` 
   
-This will make a completely muted voice pack for that survivor
+This will make a completely muted voice pack for that survivor.
 
 ``` python process_vo.py <survivor> ``` 
   
