@@ -3,16 +3,15 @@
 ## Dependencies:
 - ffmpeg
 
-example:
-python muter_vo.py teengirl
-#This will make a completely muted zoey voice pack
+python muter_vo.py <survivor>
+This will make a completely muted voice pack for that survivor
 
-python process_vo.py teengirl
-#This will process zoey's voice pack into being able to be installed properly as .vpk format
+python process_vo.py <survivor>
+This will process that survivor's voice pack into being able to be installed properly as .vpk format
 
-## Disclaimer: compress_vo.py requires a complete voice pack with all the voicelines associated with zoey present, so making a complete muted voice pack is required.
+**compress_vo.py requires a complete voice pack with all the voicelines associated with zoey present, so making a complete muted voice pack is required.**
 
-Expected output:
+survivors:
 
 teengirl (zoey) 
 namvet (bill) 
