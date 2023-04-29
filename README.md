@@ -11,7 +11,7 @@ This will make a completely muted voice pack for that survivor.
   
 This will process the voice lines into being compatible with the default soundcache hence being able to be installed properly in a .vpk format.
 
-**compress_vo.py requires a complete voice pack with all the voicelines associated with that survivor present, so making a muted voice pack with muter_vo.py might be necessary.**
+**process_vo.py requires a complete voice pack with all the voicelines associated with that survivor present, so making a muted voice pack with muter_vo.py might be necessary.**
 
 survivors:  
 
