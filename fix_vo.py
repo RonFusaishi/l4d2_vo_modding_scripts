@@ -7,8 +7,8 @@ from distutils.dir_util import copy_tree
 
 
 directory=sys.argv[1]
-filelist=os.path.join('metabank', 'fl_'+directory)
-samplerates=os.path.join('metabank', 'sr_'+directory)
+filelist='fl_'+directory
+samplerates='sr_'+directory
 
 #backup directory
 #try: 
